@@ -1,0 +1,359 @@
+
+Balanced Career Interview Questions - 
+I may have to spend some time on recalling / on this question. May I come back to it later? 
+
+
+Are you the best person for this job? Why? 
+
+
+I have the background in oil and gas research and comprehensive financial knowledge. I have  experience of analyzing the recovery of oil pools such as B.C Montney and Banff Glenevis. I can read data and well logs from AccuMap, ran analytical models in Excel and proposed solutions to increase the recovery. In the meantime, I have passed CFA Level II with top 10% score, developing strong understanding of fundamental analysis including the ability to analyze financial statement under US GAPP and IFRS. Moreover, I have worked with multiple teams and I know I thrive in a fast-paced environment. Therefore I believe I can contribute meaningfully to your Research Department. 
+
+
+
+Describe a difficult experience or Challenge at work. 
+
+Sure. Last year I was helping a Canadian pet food company to export their products to China. However, the application of export license required by the Chinese authority was delayed, probably because of political headwind at that time. That posed a significant challenge for us - if we could not launch the products in time, it would ruin the contracts with local distributors and determine our relationship with the company. While the team were thinking about how the deal with the local government, I looked another direction. I found that China had a treaty with NewZealand and their exporters were exempted from the export license. I went ahead analyzing investigating the feasibility to pack the product in NewZealand and export from there. And we that’s what we did. As a result, the customer absorbed the cost ($1 per, 5lbs).and we launched the product on time last summer.
+
+
+
+Describe yourself. 
+ 
+Sure. 
+Thanks. 
+
+Tell me why you want to work here.  
+
+
+First of all, I am excited to perform the responsibilities of research associate - to cover the companies and provide insight into the industry. I find value to do what I am passionate about. 
+
+Secondly, I want to to work in a demanding and challenging work environment. I want to make a dent by taking challenges and pushing my limit. 
+
+Moreover, I appreciate what Peters is doing. I know that you commit to give back to the communities, (by donations and volunteering and encourage your employees to do so. )I’d love to be a part. In addition, I appreciate that you see values small-caped, junior companies. As a junior who want to get my foot in the financial industry, and I am more than happy to take care of the small companies, who are on similar transition as I do. 
+
+
+
+Describe your best boss and your worst boss.  
+
+Describe your career goals.  
+I want to excel in my field to the point that my name can be googled. 
+
+Bloomberg Radio first thing before driving, and I want to be heard one day- thanks for having me. 
+
+Describe your work style.  
+
+
+Underlying leadership - I don’t vote to be a leader; Instead, I step forward when needed and do what I leader should do - bringing my teammates together, facilitating communications, and taking the team forward. (For example, I participated in the data competition …)
+
+Do you prefer to work alone or on a team?  
+
+In a team for my next job. I have the experience of both. For example:
+In the automation research, colleague alongside, tasked interdependent 
+In the current role, have my own office but own more duty and go above and beyond. Missing team environment. 
+
+
+Do you take work home with you?  
+
+It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team. But the nature of a task at hand has overriding priority. I was happy to work over the weekends and then take the 6am flight to Vancouver to meet our client.
+
+Give some examples of teamwork.  
+
+Sure. One example took place during the automation research where I programmed automated framing machines. I knew that the project was on an ongoing basis and there would be people taking over my responsibilities after I left. Therefore, I could work with the team to facilitate a smooth transition. To achieve that, I created a folder to keep notes about how I learned the programming language, what pitfalls to avoid and how to troubleshooting. After my successor was determined, I started going through the notes with him and inviting him to watch me programming. Before I left, he was able to help me with debugging, and he continued improving the machines towards commercialization after I left. 
+
+
+Have you ever had difficulty/Conflict working with a manager?  
+
+Every supervisor and team leader I have worked with are very good communicator. Let’s say there was going to be “conflict” with my supervisor when I worked on the Asphaltene project (analyzed the aggregation of alphaltene). Initially I processed the data in Excel - and it took about 2 hours to clean and format one dataset before we could run regression - and we would have at least 66 dataset to generate. But, the raw data always took one of a few variations, therefore I suggested that I could learn programming the streamline the process. 
+
+But my supervisor initially rejected my proposal. 
+
+After communication, I realized that she was concerned about the delay of the project due to the my learning curve. In response to her concern, I continued using Excel to process at least 2 datasets per day as a baseline scenario. At the same time, I was learning programming, and keeping her updated. In 2 weeks, I was able to write my first script to do partial cleaning. Two months later, I was able to automate data processing and clean up the data as soon as they were generated. As a result, my supervisor became very supportive and I finished the analysis 2 weeks earlier.
+
+
+Have you gotten angry at work? What happened?  
+
+Not that I remember. If you are surprised, I would say partially because I tend to think of the positive side of an argument and seek agreement by communication, and people I worked with would response in kind. 
+
+
+How do you handle stress and pressure?  
+
+
+By communication. A lot of times stress and pressure will go when you have information and feedbacks. For example when I am assigned a difficult task that seemingly worries me.I may write to the manager to specify the expectations and maybe ask for additional resources. Along the way I can divide a big task into a few phases, update my manager with each phase and ask for feedbacks. That way, I know what I am doing and I am on the same page with my manager. And the stress and pressure are reduced. 
+
+
+How do you measure success?  
+
+Hard question. In the narrow point of view, I think success can be measure by money. For one thing, successful people make decent amount of money by doing what is legitimate and enjoyable. For another, successful people spend the money in a way that please them self and benefit the society. It is just one perspective and for sure there are successful people beyond this measure. 
+
+
+
+How long do you expect to work for this company?  
+
+I will give it a good 5 years. . I believe your company can provide me with the challenges and career growth I want for at least 5 years. And you will value and reward my contribution fairly. After 5 years, I might rethink my position and goals of life and career.
+
+
+
+How much do you expect to get paid?  
+
+I believe I you would reward me based on my qualification and contribution. And I am pretty sure that I will enjoy doing what I am good at and interested in, which has value for me. Therefore I am open to discuss afterwards. 
+
+I enjoy making money by doing what I am interested in. 
+
+
+How would you describe the pace at which you work?  
+
+It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team; in the fast-paced project (e.g. in the automation research team) I try to get things started ASAP. On the other hand, in the slow-paced environment, I tend to spend more time planning a task, brainstorming any way to improve the efficiency in the long run. 
+
+But the nature of a task at hand has overriding priority. I have not problem to work over the weekends and then take the 6am flight to Vancouver to meet our client, as I did before.
+
+
+How would you describe yourself?  
+
+I am a human, by saying that I mean there are things I hat myself - For example I relied too much on my parents’ decisions knowing that I was interested in finance, I agreed to study engineering because they loved engineers…there are also things I like about myself - I am ambitious, smart, optimistic and like-able; and by sitting here, I am now pursuing what I really interest in. 
+
+I am ambitious, intelligent and consistent. And I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. 
+
+
+How would you handle it if your boss was wrong?  
+
+You know one of our business is to import liquors and distribute them to different provinces, and the wholesale price was determined partially When we were about to determine the wholesale price of a new product in SK, my manager asked me to double check his calculated price against the pricing structure of SK liquor board. I did the calculation twice got a number 3 dollars cheaper. So either my manager or I made some mistake. Before reporting to manager, I attempted to figure out where the error was. And after some research, I realized that liquor board recently updated one surcharge. I was using the new model, and I suspected my manager did not update. To confirm, I plugged in the old surcharge, and got the same answer as my manager. After all, I was confident and reported to my manager and provided him the updated model. In the end, we was able to sell the product cheaper with the same margins. 
+
+I have to admit that my current manager is way smarter than me. But I will take an example where his instinct was wrong.
+
+The little bit background - one of our product, Flying Fairy Moutai sell in Alberta and BC, with the price in BC 80 dollars higher due to the higher tax imposed by liquor board. This summer, we found that the quarterly sales in BC had been declining dramatically compared to the year before (BC 100 - 70 AB 80-120). In response, my manager was considering a price adjustment. But I was being skeptical - I noticed that the growth of sales in Alberta, in contact, was surprisingly high- To see the big picture, I added up the sales of the product in BC and Alberta only to find that the total sales slightly increased and conformed to yearly trend. Boiling down to (By looking at) store-level sales in Alberta, I found that the unexplained growth came from two stores. After investigation, as you may have guessed, there were guys buying the product in Alberta and selling them in BC - which is legal by the way. So instead of reducing the price in BC, we raised the price a little bit in Alberta to take advantage of price effect. As a result, we are seeing a better balance between the two provinces, and total sales are increasing in a healthy way (BC 70 - 80, AB 120-110, wholesale price 150-160)
+
+If the people who know you were asked why you should be hired, what would they say? 
+
+Simple version. “If I were you, I would hire him. Because he qualifies for the position he applies, and I don’t know other candidates. “ 
+
+(I’m not bragging but I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. )
+
+
+Is there a type of work environment you prefer?  
+
+(Having worked in multiple companies, I know that I am highly adaptive to different environment. That said,) I especially enjoy a fast paced one with clearly assigned tasks and regular meetings. It reminded me of my time in the automation research group (where the team met every Friday and could track everyone’s progress online.) My body is totally fine with that, and I believe I have a lot of potential to realize in such environment(For example, I challenged myself to learn the programming language for Logic Controler in 4 weeks) (But in an intense work environment, I think it is important to have a mechanism to facilitate timely feedbacks and communications within the team. )
+
+Tell me about yourself.  
+
+
+I graduated in petroleum engineering from the University of Alberta. Through the co-op internship program, I have worked on a wide range of research projects, and have developed solid skills in financial modeling, data analysis, and using industrial software such as AccuMap. In my current role as procurement analyst, I perform adhoc market research, pricing analysis and demand forecasting. Within one year, my research has allowed the company to gain market share in Alberta, expand market access to Saskatchewan, and Manitoba. Driven by my interest in financial analysis, I have been working towards the CFA program, and passed Level I and Level II, developing comprehensive knowledge in the capital market. Outside of work, I enjoy taking online courses to sharpen my programming skills, while seeking challenges and projects to apply the skills in real life. Currently, I want to further my career in the Alberta capital market so that I can leverage my background and skills.
+
+Why don’t you walk me through your resume? 
+
+(How much time would you like me to spend on this question? What part of my background would you like me to go in details?)
+
+I’d like to start from my internship at Pure North Energy Foundation, where I analyzed the reduction of lead and mercury. I have learned to communicate with database, run regression models in IBM SPSS, and visualize the results in Excel. This experience worked me through the process of data-driven research, and paved the way for more advanced challenges. 
+
+
+In the following summer, I performed full-life-cycle data analysis of asphaltene aggregation in oil production, responsible for the collection, processing, modeling and visualization of data, and compiling reports. I self-taught Python programming along the way, to process the massive, complex data. I used Excel to run analytical models and descriptive analysis. And we published the paper on Energy & Fuels.
+
+My programming skills led me to the automation research team where(In the last internship ) I designed and programed two framing machine prototypes, worth over 1 million dollar in total. I enjoyed the fast-paced work environment where the team met every Friday and we could each each other’s progress online in real-time. In 4 weeks, I self-taught the IEC programming language. By the end, I successfully demonstrated the automation in front of over 200 professionals during the Open House. 
+
+After graduation, I have been working for Sinocan Supply Inc, a liquor distributor and trade agency in an entrepreneurial environment while exploring my interest and strength. I perform adhoc market research to identify profitable projects, and I also perform demand forecasting and pricing analysis with demographic and sales data. I have assisted a Canadian Dog Food provider to launch their brand overseas, increasing their estimated sales by 20m USD. My research has enabled us to optimize the product category across Canada, with an estimated increase in sales by 7% for this year. While working in this company, I have developed a desire to figure out everything between Sales and Bottom Line. Therefore I enrolled in the CFA Program last year and have passed the 2nd exam with top 10% score. 
+
+
+
+What are you looking for in your next position?  
+
+Achievement - with my research, creating value by serving the small companies to get their foot in the industry, especially in this low investment environment. 
+
+Growth - with the company’s resource. I want to continue workin towards the CFA designation while harvesting real-world experience. I want to sharpen my financial analysis skills, and learn to develop advanced financial models for the oil and gas industry and beyond. 
+
+
+
+What are you passionate about?  
+
+What are your goals for the future?  
+
+What are your salary requirements?  
+
+What can you do for this company?  
+
+What can you contribute to this company?  
+
+What challenges are you looking for in your next job?  
+
+What did you like or dislike about your previous job?  
+
+What do you expect from a supervisor?  
+
+What do you find are the most difficult decisions to make?  
+
+Between work and family. I have not stayed with my family during the transitional spring festival for 5 years. This year I had the chance the take the paid vacation during the Chinese New Year, but we arranged a few events at the time and I believed the company needed my presence. I was difficult decision to make. Fortunately, my parents are very healthy. So once again, I prioritize my responsibility in the company. 
+
+
+
+What have you learned from your mistakes?  
+
+What interests you about this job?  
+
+
+
+What is your greatest strength?  
+
+
+
+What is your greatest weakness?  
+
+Public Speaking. My body does not move very naturally when I give a speech in front of people. I want to improve it. Therefore I have been a member of the ToastMaster Club, where a group of people meet together, give speech or give feedbacks. For example, my next speech will be about What is Actually Happening in HongKong, and this time I want to address the feedback about my body language. I believe I will be a good speaker one day. 
+
+
+
+What major challenges have you handled?  
+
+
+
+What problems have you encountered at work?  
+
+What was your biggest accomplishment in this position?  
+
+
+Tell me about a time when you had to meet a tight deadline.
+
+
+
+Sure. One example took place when I working with the dog food company to export their products. We were on the tight schedule because of the availability of the company and the local distributor. On Friday they got back to us with their comments on the last version of MOU. We had been scheduled to meet them on the next Monday with representative from China. Therefore, I took the work home, kept my phone powered on for 48 hours. I took advantage of time by working with my manager in the day, and communicated with local personnels during the night and their fight connections. As a result, we finalized the MOU by Sunday night and the meeting on the next Monday went on well. 
+
+
+
+What was most rewarding about your job?  
+
+Salary. Yeah jokingly but It is good for new graduate. Well it is a bonus to work with entrepreneurs and explore my passion. I feel the sense of achievement when I use my intelligence to move a project forward. 
+
+What relevant experience do you have?  
+
+
+
+Can you provide an example to demonstrate your leadership? 
+
+Sure. I would like to take the example when I participated in the Data Competition hosted by ATB Bank. Our team was comprised of 5 people from diversified background, including business analysts and Software QAs. As soon as the team was assigned, I initiated the online pool to coordinate our first meeting. In the meeting, we had a hard time to determine the theme of our project. I soon realized that I was the one who had the most knowledge of the dataset provided. Therefore, I stepped forward and explained the feasibility of proposals in a non-technical way so that the team were on the same page. By the end of the meeting, I called for a vote. As a results, we decided to predict future travelers for tailored promotion in the first meeting, buying more time for the project.
+
+
+What will you do if you don't get a job offer?  
+
+Thank you for asking. I would keep looking. If I failed this interview, please do me a favor by giving me any piece of feedback or career advice. And I look forward to staying connected. 
+
+Why are you leaving your job?  
+
+
+Because I want to get into the capital market. That’s what I’m passionate about and I believe there is a lot of room for growth as well.
+
+
+Why do you want this job?  
+
+
+Why should we hire you?  
+
+What do you know about this company?  
+
+
+What super power do you want to have? 
+
+
+I would love to see through people……’s mind lol still creep. Actually I want to have photographic memory and super-fast reading ability. I know Bill Gates can read 150 pages per hour and 15 books during business travel. That’s astonishing… If I had this ability, I would be able to catch up with the progress of any cutting edge technology in no time, and develop an insight into what is happening in the fast-changing world. I would able to transform the world. 
+
+
+If you were a animal, which would you want to be?
+
+Wolf. Because they are strong as individual, and they can take down stronger target by working as a group. And they react quickly when opportunities present. 
+
+What is your outlook of the industry?
+
+“It is deeper and wider than we’ve seen in a long time. Of course there’s the factor of commodity prices. There are also various regulatory, social and environment movements happening and, from an investor point of view, it’s all added additional uncertainty.
+
+“Technology is tremendous. It has redefined the industry but unlocking technology has dramatically changed the cost structure of the oil and gas business. We don’t drill vertical wells. It’s much more capital intensive. There are enormous additional costs with new horizontal, multi-stage wells.
+
+“With the reduced revenues and cash, many companies are cost-conscious and cost-competitive. They are seizing the opportunity to squeeze out some excess costs that have become almost built in to the industry.
+
+“From the perspective of a lot of the capital flows, there is uncertainty about regulations and taxes. It has caused capital to pause, take a step back and perhaps be a bit more reserved for the moment, about investment in Calgary-based companies.”
+
+“The number one factor is stability in commodity prices. We have some of the best plays in North America. There will be increased capital investment when investors feel comfortable about prices and other things,” he cautions. “Of course, with each new government, there are additional taxation regulations and tax structures. Investors don’t take well to too many changes. They seek out other alternatives. Investors need to feel comfortable about consistent tax regulations and tax regimes.
+
+“But, the good news is that investors are looking from the outside in, and Canada still has lots of merits, especially economic and other stability. I think we have probably bottomed out and can expect recovery by mid-2017 and early 2018.”
+
+Potter professionally guesses the new normal will include the energy sector doing more with less; companies that are more effective and efficient about spending capital and what they get for the money. “Personally, I don’t think we’ll see the over-capitalization and cost escalations that we have experienced over the past 10 years.”
+
+Peters & Co. supports and participates in Calgary’s community-based charitable activities, not only through charitable donations but also with volunteer time to worthwhile causes such as the Alberta Children’s Hospital Foundation. The company has also been a vital partner of the United Way of Calgary and area for more than 28 years.
+
+
+What project have you been working on most recently? 
+
+We are in touch with the WuLiangYe, one of the top 10 Asian Liquor , trying to win the distribution right in BC. I’ve been working on the marketing plan and the demand forecast based on different pricing strategies. At the same time, I am working with Facet Music, a Non-profit Music Association, discussing about a Networking Event in Calgary upcoming this month. I will sponsor them and they will provide the guests cocktails made from Asian liquor. Tomorrow I will meet with the organizer to discuss the details. You are very welcome to attend ( once I have everything ironed out / set up) 
+
+Does your current role require any financial analysis? 
+
+Not much. Unfortunately I don’t have access to the company’s financial statements. I do perform adhoc demand forecasting where I build regression models in Excel with the seasonal sales and demographic data. And I use pivot tables to perform cross-sectional analysis to gain insight into our business. 
+
+What database do you use in your current role? 
+
+We use the database provided by the our partners. For example, our inventory, orders and sales data in Alberta is stored in the Liquor Connect Database. And when I need to run adhoc analysis, I will download the data, process them in Python is necessary, and load them into Excel for most of time. 
+
+What have you learned from CFA and what part of it interest you the most? 
+
+Well, you know the CFA program cover a wide range of financial knowledge including economics, risk management, financial reporting, equity valuation and portfolio management. I tried to treat them equally when I studies for exams. That being said, what I’m most interested in is equity valuation. Think about it, unlike trading or portfolio management which requires capital, I can use my own knowledge of the industry and the analysis of their financial statements, to have an educated opinion on any company I’m interest in - it’s the product of my intelligence. That will be very very cool! 
+
+Regression Models 
+DuPont Model, Linear regression, multivariate regression, autoregressive, 
+
+Required return Model
+CAPM,Multi-factor model, build-up model, 
+
+Valuation Model
+Dividend Gordon Growth model, FCF Model, Residual Income model, Market Comparables Model
+
+Private Equity Valuation
+Discount Lack of Control/Market - IPO, early payment, restriction on selling, more buyers, uncertainty 
+
+Derivatives Pricing Models
+Binomial Tree, Black Scores Option Pricing Model
+
+Contango : Most of time Future Price > Spot
+Backwardation: On the contrary with positive roll over return 
+
+
+Difference between IFRS and Canada GAAP
+
+
+
+DuPont Analysis = ROE = net profit margin x asset turnover x leverage ratio. 
+
+
+
+What to pay attention when doing valuation? 
+
+Treat as Capital lease v.s. Operating lease.
+Accurate ratio - lower better
+IFRS allows reversion of previous loss on the income statement; GAPP does not allow any re-valuation for long-lived asset. In terms of Pension accounting. Full vs partial goodwill. 
+
+Controlling vs non-controlling interest will require different treatment (equity vs acquisition method) on the financial reporting, and affecting balance sheet. 
+
+
+Have you heard of the Redomiciling / Rehoming of Encana to the U.S.?
+
+As the CEO said, a relocating in the US will expose the company to increasingly larger pool of investment in U.S. index fund and passive managed accounts. The company has been shifting its focus to increasing investment in U.S. Likewise, Husky has announced the decision of reducing workforce last month, as he are having a hard time to attract investment for E&P, and to a weaker extent in the states, compounded with the shaking global growth.
+
+Trudeau’s Liberal Federal Government and Kenny’s UCP Alberta Government.
+
+
+The increase in production depends on the of rail transportation?
+
+The special production allowance - Operators will be allowed to exceed their provincially-imposed output caps if they can ship those extra barrels by rail. Alberta oil producers are currently shipping 300,000 barrels per day by rail but the system can handle 600,000 barrels a day by rail. 
+
+Total limit is 3.7mb/d
+
+The current differential, which shows the difference in price between a barrel of WCS and WTI, is around $16 ($40 at bottom) US a barrel.
+
+
+Thought on recent M&A deal? 
+
+Sure. I have recently followed the acquisition of Anadarko, which was initially approached by Chevron and acquired by Ocidental in the end.
+
+"Winning in any environment doesn’t mean winning at any cost,” Chevron Chief Executive Officer Mike Wirth said in a statement, ”Cost and capital discipline always matter, and we will not dilute our returns or erode value for our shareholders for the sake of doing a deal." -  $1 billion breakup fee. Chevron, meanwhile, loses a chance for a sweet deal but retains its reputation for discipline. 
+ Anadarko managed to extract quite a bit from the past month’s drama. As of Thursday morning, it has an agreed offer in hand worth almost $76 a share, including $59 of cash, versus its closing price on April 11 of $46.80.
+
+To be sure, by purchasing Anadarko ($65), Chevron would gain synergies by having valuable assets in the Permian Basin, the top U.S. shale oil region. The deal would integrate its existing operations and achieve economies of scale. Connected fields allows for drilling of longer laterals, enabling a producer to extract more oil from a well, which in turn drives down the cost per barrel.
+
+Question For Interviewer: 
+
+Is there anything else I could do, if I’m hired, to maximize your operational efficiency in the consistent low investment environment. 
+
+
