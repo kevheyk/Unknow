@@ -3,139 +3,14 @@ Balanced Career Interview Questions -
 I may have to spend some time on recalling / on this question. May I come back to it later? 
 
 
-Are you the best person for this job? Why? 
-
-
-I have the background in oil and gas research and comprehensive financial knowledge. I have  experience of analyzing the recovery of oil pools such as B.C Montney and Banff Glenevis. I can read data and well logs from AccuMap, ran analytical models in Excel and proposed solutions to increase the recovery. In the meantime, I have passed CFA Level II with top 10% score, developing strong understanding of fundamental analysis including the ability to analyze financial statement under US GAPP and IFRS. Moreover, I have worked with multiple teams and I know I thrive in a fast-paced environment. Therefore I believe I can contribute meaningfully to your Research Department. 
-
-
-
-Describe a difficult experience or Challenge at work. 
-
-Sure. Last year I was helping a Canadian pet food company to export their products to China. However, the application of export license required by the Chinese authority was delayed, probably because of political headwind at that time. That posed a significant challenge for us - if we could not launch the products in time, it would ruin the contracts with local distributors and determine our relationship with the company. While the team were thinking about how the deal with the local government, I looked another direction. I found that China had a treaty with NewZealand and their exporters were exempted from the export license. I went ahead analyzing investigating the feasibility to pack the product in NewZealand and export from there. And we that’s what we did. As a result, the customer absorbed the cost ($1 per, 5lbs).and we launched the product on time last summer.
-
-
-
-Describe yourself. 
- 
-Sure. 
-Thanks. 
-
-Tell me why you want to work here.  
-
-
-First of all, I am excited to perform the responsibilities of research associate - to cover the companies and provide insight into the industry. I find value to do what I am passionate about. 
-
-Secondly, I want to to work in a demanding and challenging work environment. I want to make a dent by taking challenges and pushing my limit. 
-
-Moreover, I appreciate what Peters is doing. I know that you commit to give back to the communities, (by donations and volunteering and encourage your employees to do so. )I’d love to be a part. In addition, I appreciate that you see values small-caped, junior companies. As a junior who want to get my foot in the financial industry, and I am more than happy to take care of the small companies, who are on similar transition as I do. 
-
-
-
-Describe your best boss and your worst boss.  
-
-Describe your career goals.  
-I want to excel in my field to the point that my name can be googled. 
-
-Bloomberg Radio first thing before driving, and I want to be heard one day- thanks for having me. 
-
-Describe your work style.  
-
-
-Underlying leadership - I don’t vote to be a leader; Instead, I step forward when needed and do what I leader should do - bringing my teammates together, facilitating communications, and taking the team forward. (For example, I participated in the data competition …)
-
-Do you prefer to work alone or on a team?  
-
-In a team for my next job. I have the experience of both. For example:
-In the automation research, colleague alongside, tasked interdependent 
-In the current role, have my own office but own more duty and go above and beyond. Missing team environment. 
-
-
-Do you take work home with you?  
-
-It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team. But the nature of a task at hand has overriding priority. I was happy to work over the weekends and then take the 6am flight to Vancouver to meet our client.
-
-Give some examples of teamwork.  
-
-Sure. One example took place during the automation research where I programmed automated framing machines. I knew that the project was on an ongoing basis and there would be people taking over my responsibilities after I left. Therefore, I could work with the team to facilitate a smooth transition. To achieve that, I created a folder to keep notes about how I learned the programming language, what pitfalls to avoid and how to troubleshooting. After my successor was determined, I started going through the notes with him and inviting him to watch me programming. Before I left, he was able to help me with debugging, and he continued improving the machines towards commercialization after I left. 
-
-
-Have you ever had difficulty/Conflict working with a manager?  
-
-Every supervisor and team leader I have worked with are very good communicator. Let’s say there was going to be “conflict” with my supervisor when I worked on the Asphaltene project (analyzed the aggregation of alphaltene). Initially I processed the data in Excel - and it took about 2 hours to clean and format one dataset before we could run regression - and we would have at least 66 dataset to generate. But, the raw data always took one of a few variations, therefore I suggested that I could learn programming the streamline the process. 
-
-But my supervisor initially rejected my proposal. 
-
-After communication, I realized that she was concerned about the delay of the project due to the my learning curve. In response to her concern, I continued using Excel to process at least 2 datasets per day as a baseline scenario. At the same time, I was learning programming, and keeping her updated. In 2 weeks, I was able to write my first script to do partial cleaning. Two months later, I was able to automate data processing and clean up the data as soon as they were generated. As a result, my supervisor became very supportive and I finished the analysis 2 weeks earlier.
-
-
-Have you gotten angry at work? What happened?  
-
-Not that I remember. If you are surprised, I would say partially because I tend to think of the positive side of an argument and seek agreement by communication, and people I worked with would response in kind. 
-
-
-How do you handle stress and pressure?  
-
-
-By communication. A lot of times stress and pressure will go when you have information and feedbacks. For example when I am assigned a difficult task that seemingly worries me.I may write to the manager to specify the expectations and maybe ask for additional resources. Along the way I can divide a big task into a few phases, update my manager with each phase and ask for feedbacks. That way, I know what I am doing and I am on the same page with my manager. And the stress and pressure are reduced. 
-
-
-How do you measure success?  
-
-Hard question. In the narrow point of view, I think success can be measure by money. For one thing, successful people make decent amount of money by doing what is legitimate and enjoyable. For another, successful people spend the money in a way that please them self and benefit the society. It is just one perspective and for sure there are successful people beyond this measure. 
-
-
-
-How long do you expect to work for this company?  
-
-I will give it a good 5 years. . I believe your company can provide me with the challenges and career growth I want for at least 5 years. And you will value and reward my contribution fairly. After 5 years, I might rethink my position and goals of life and career.
-
-
-
-How much do you expect to get paid?  
-
-I believe I you would reward me based on my qualification and contribution. And I am pretty sure that I will enjoy doing what I am good at and interested in, which has value for me. Therefore I am open to discuss afterwards. 
-
-I enjoy making money by doing what I am interested in. 
-
-
-How would you describe the pace at which you work?  
-
-It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team; in the fast-paced project (e.g. in the automation research team) I try to get things started ASAP. On the other hand, in the slow-paced environment, I tend to spend more time planning a task, brainstorming any way to improve the efficiency in the long run. 
-
-But the nature of a task at hand has overriding priority. I have not problem to work over the weekends and then take the 6am flight to Vancouver to meet our client, as I did before.
-
-
-How would you describe yourself?  
-
-I am a human, by saying that I mean there are things I hat myself - For example I relied too much on my parents’ decisions knowing that I was interested in finance, I agreed to study engineering because they loved engineers…there are also things I like about myself - I am ambitious, smart, optimistic and like-able; and by sitting here, I am now pursuing what I really interest in. 
-
-I am ambitious, intelligent and consistent. And I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. 
-
-
-How would you handle it if your boss was wrong?  
-
-You know one of our business is to import liquors and distribute them to different provinces, and the wholesale price was determined partially When we were about to determine the wholesale price of a new product in SK, my manager asked me to double check his calculated price against the pricing structure of SK liquor board. I did the calculation twice got a number 3 dollars cheaper. So either my manager or I made some mistake. Before reporting to manager, I attempted to figure out where the error was. And after some research, I realized that liquor board recently updated one surcharge. I was using the new model, and I suspected my manager did not update. To confirm, I plugged in the old surcharge, and got the same answer as my manager. After all, I was confident and reported to my manager and provided him the updated model. In the end, we was able to sell the product cheaper with the same margins. 
-
-I have to admit that my current manager is way smarter than me. But I will take an example where his instinct was wrong.
-
-The little bit background - one of our product, Flying Fairy Moutai sell in Alberta and BC, with the price in BC 80 dollars higher due to the higher tax imposed by liquor board. This summer, we found that the quarterly sales in BC had been declining dramatically compared to the year before (BC 100 - 70 AB 80-120). In response, my manager was considering a price adjustment. But I was being skeptical - I noticed that the growth of sales in Alberta, in contact, was surprisingly high- To see the big picture, I added up the sales of the product in BC and Alberta only to find that the total sales slightly increased and conformed to yearly trend. Boiling down to (By looking at) store-level sales in Alberta, I found that the unexplained growth came from two stores. After investigation, as you may have guessed, there were guys buying the product in Alberta and selling them in BC - which is legal by the way. So instead of reducing the price in BC, we raised the price a little bit in Alberta to take advantage of price effect. As a result, we are seeing a better balance between the two provinces, and total sales are increasing in a healthy way (BC 70 - 80, AB 120-110, wholesale price 150-160)
-
-If the people who know you were asked why you should be hired, what would they say? 
-
-Simple version. “If I were you, I would hire him. Because he qualifies for the position he applies, and I don’t know other candidates. “ 
-
-(I’m not bragging but I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. )
-
-
-Is there a type of work environment you prefer?  
-
-(Having worked in multiple companies, I know that I am highly adaptive to different environment. That said,) I especially enjoy a fast paced one with clearly assigned tasks and regular meetings. It reminded me of my time in the automation research group (where the team met every Friday and could track everyone’s progress online.) My body is totally fine with that, and I believe I have a lot of potential to realize in such environment(For example, I challenged myself to learn the programming language for Logic Controler in 4 weeks) (But in an intense work environment, I think it is important to have a mechanism to facilitate timely feedbacks and communications within the team. )
 
 Tell me about yourself.  
 
 
 I graduated in petroleum engineering from the University of Alberta. Through the co-op internship program, I have worked on a wide range of research projects, and have developed solid skills in financial modeling, data analysis, and using industrial software such as AccuMap. In my current role as procurement analyst, I perform adhoc market research, pricing analysis and demand forecasting. Within one year, my research has allowed the company to gain market share in Alberta, expand market access to Saskatchewan, and Manitoba. Driven by my interest in financial analysis, I have been working towards the CFA program, and passed Level I and Level II, developing comprehensive knowledge in the capital market. Outside of work, I enjoy taking online courses to sharpen my programming skills, while seeking challenges and projects to apply the skills in real life. Currently, I want to further my career in the Alberta capital market so that I can leverage my background and skills.
+
+
+
 
 Why don’t you walk me through your resume? 
 
@@ -152,11 +27,170 @@ After graduation, I have been working for Sinocan Supply Inc, a liquor distribut
 
 
 
+Are you the best person for this job? Why? 
+
+I have the background in oil and gas research and comprehensive financial knowledge. I have  experience of analyzing the recovery of oil pools such as B.C Montney and Banff Glenevis. I can read data and well logs from AccuMap, ran analytical models in Excel and proposed solutions to increase the recovery. In the meantime, I have passed CFA Level II with top 10% score, developing strong understanding of fundamental analysis including the ability to analyze financial statement under US GAPP and IFRS. Moreover, I have worked with multiple teams and I know I thrive in a fast-paced environment. Therefore I believe I can contribute meaningfully to your Research Department. 
+
+
+Tell me why you want to work here.  
+
+
+First of all, I am excited to perform the responsibilities of research associate - to cover the companies and provide insight into the industry. I find value to do what I am passionate about. 
+
+Secondly, I want to to work in a demanding and challenging work environment. I want to make a dent by taking challenges and pushing my limit. 
+
+Moreover, I appreciate what Peters is doing. I know that you commit to give back to the communities, (by donations and volunteering and encourage your employees to do so. )I’d love to be a part. In addition, I appreciate that you see values small-caped, junior companies. As a junior who want to get my foot in the financial industry, and I am more than happy to take care of the small companies, who are on similar transition as I do. 
+
+
+
 What are you looking for in your next position?  
 
 Achievement - with my research, creating value by serving the small companies to get their foot in the industry, especially in this low investment environment. 
 
 Growth - with the company’s resource. I want to continue workin towards the CFA designation while harvesting real-world experience. I want to sharpen my financial analysis skills, and learn to develop advanced financial models for the oil and gas industry and beyond. 
+
+
+How long do you expect to work for this company?  
+
+I will give it a good 5 years. . I believe your company can provide me with the challenges and career growth I want for at least 5 years. And you will value and reward my contribution fairly. After 5 years, I might rethink my position and goals of life and career.
+
+
+How much do you expect to get paid?  
+
+I believe I you would reward me based on my qualification and contribution. And I am pretty sure that I will enjoy doing what I am good at and interested in, which has value for me. Therefore I am open to discuss afterwards. 
+
+I enjoy making money by doing what I am interested in. 
+
+What project have you been working on most recently? 
+
+We are in touch with the WuLiangYe, one of the top 10 Asian Liquor , trying to win the distribution right in BC. I’ve been working on the marketing plan and the demand forecast based on different pricing strategies. At the same time, I am working with Facet Music, a Non-profit Music Association, discussing about a Networking Event in Calgary upcoming this month. I will sponsor them and they will provide the guests cocktails made from Asian liquor. Tomorrow I will meet with the organizer to discuss the details. You are very welcome to attend ( once I have everything ironed out / set up) 
+
+
+Does your current role require any financial analysis? 
+
+Not much. Unfortunately I don’t have access to the company’s financial statements. I do perform adhoc demand forecasting where I build regression models in Excel with the seasonal sales and demographic data. And I use pivot tables to perform cross-sectional analysis to gain insight into our business. 
+
+What database do you use in your current role? 
+
+We use the database provided by the our partners. For example, our inventory, orders and sales data in Alberta is stored in the Liquor Connect Database. And when I need to run adhoc analysis, I will download the data, process them in Python is necessary, and load them into Excel for most of time. 
+
+What have you learned from CFA and what part of it interest you the most? 
+
+Well, you know the CFA program cover a wide range of financial knowledge including economics, risk management, financial reporting, equity valuation and portfolio management. I tried to treat them equally when I studies for exams. That being said, what I’m most interested in is equity valuation. Think about it, unlike trading or portfolio management which requires capital, I can use my own knowledge of the industry and the analysis of their financial statements, to have an educated opinion on any company I’m interest in - it’s the product of my intelligence. That will be very very cool! 
+
+
+Describe a Challenge / Achievement at work. 
+
+Sure. Last year I was helping a Canadian pet food company to export their products to China. However, the application of export license required by the Chinese authority was delayed, probably because of political headwind at that time. That posed a significant challenge for us - if we could not launch the products in time, it would ruin the contracts with local distributors and determine our relationship with the company. While the team were thinking about how the deal with the local government, I looked another direction. I found that China had a treaty with NewZealand and their exporters were exempted from the export license. I went ahead analyzing investigating the feasibility to pack the product in NewZealand and export from there. And we that’s what we did. As a result, the customer absorbed the cost ($1 per, 5lbs).and we launched the product on time last summer.
+
+
+
+Tell me about a time when you had to meet a tight deadline.
+
+
+Sure. One example took place when I working with the pet food company to export their products. We were on the tight schedule because of the availability of the company and the local distributor. On Friday they got back to us with their comments on the last version of MOU. We had been scheduled to meet them on the next Monday with representative from China. Therefore, I took the work home, kept my phone powered on for 48 hours. I took advantage of time by working with my manager in the day, and communicated with local personnels during the night and their fight connections. As a result, we finalized the MOU by Sunday night and the meeting on the next Monday went on well. 
+
+
+Give some examples of teamwork.  
+
+Sure. One example took place during the automation research where I programmed automated framing machines. I knew that the project was on an ongoing basis and there would be people taking over my responsibilities after I left. Therefore, I could work with the team to facilitate a smooth transition. To achieve that, I created a folder to keep notes about how I learned the programming language, what pitfalls to avoid and how to troubleshooting. After my successor was determined, I started going through the notes with him and inviting him to watch me programming. Before I left, he was able to help me with debugging, and he continued improving the machines towards commercialization after I left. 
+
+Can you provide an example to demonstrate your leadership? 
+
+Sure. In my definition, a leader is one who steps forward when needed, brings the team together, facilitates communications, and takes the team forward. I would like to take the example when I participated in the Data Competition hosted by ATB Bank. Our team was comprised of 5 people from diversified background, including business analysts and Software QAs. As soon as the team was assigned, I initiated the online pool to coordinate our first meeting. In the meeting, we had a hard time to determine the theme of our project. I soon realized that I was the one who had the most knowledge of the dataset provided. Therefore, I stepped forward and explained the feasibility of proposals in a non-technical way so that the team were on the same page. By the end of the meeting, I called for a vote. As a results, we decided to predict future travelers for tailored promotion in the first meeting, buying more time for the project.
+
+
+How would you handle it if your boss was wrong?  
+
+
+The little bit background - one of our product, Flying Fairy Moutai sell in Alberta and BC, with the price in BC 80 dollars higher due to the higher tax imposed by liquor board. This summer, we found that the quarterly sales in BC had been declining dramatically compared to the year before (BC 100 - 70 AB 80-120). In response, my manager was considering a price adjustment. But I was being skeptical - I noticed that the growth of sales in Alberta, in contact, was surprisingly high- To see the big picture, I added up the sales of the product in BC and Alberta only to find that the total sales slightly increased and conformed to yearly trend. Boiling down to (By looking at) store-level sales in Alberta, I found that the unexplained growth came from two stores. After investigation, as you may have guessed, there were guys buying the product in Alberta and selling them in BC - which is legal by the way. So instead of reducing the price in BC, we raised the price a little bit in Alberta to take advantage of price effect. As a result, we are seeing a better balance between the two provinces, and total sales are increasing in a healthy way (BC 70 - 80, AB 120-110, wholesale price 150-160)
+
+
+Have you ever had Conflict / Creativity working with a manager?  
+
+Every supervisor and team leader I have worked with are very good communicator. Let’s say there was going to be “conflict” with my supervisor when I worked on the Asphaltene project (analyzed the aggregation of alphaltene). Initially I processed the data in Excel - and it took about 2 hours to clean and format one dataset before we could run regression - and we would have at least 66 dataset to generate. But, the raw data always took one of a few variations, therefore I suggested that I could learn programming the streamline the process. But my supervisor initially rejected my proposal. After communication, I realized that she was concerned about the delay of the project due to the my learning curve. In response to her concern, I continued using Excel to process at least 2 datasets per day as a baseline scenario. At the same time, I was learning programming, and keeping her updated. In 2 weeks, I was able to write my first script to do partial cleaning. Two months later, I was able to automate data processing and clean up the data as soon as they were generated. As a result, my supervisor became very supportive and I finished the analysis 2 weeks earlier.
+
+
+Is there a type of work environment you prefer?  
+
+(Having worked in multiple companies, I know that I am highly adaptive to different environment. That said,) I especially enjoy a fast paced one with clearly assigned tasks and regular meetings. It reminded me of my time in the automation research group (where the team met every Friday and could track everyone’s progress online.) My body is totally fine with that, and I believe I have a lot of potential to realize in such environment(For example, I challenged myself to learn the programming language for Logic Controler in 4 weeks) (But in an intense work environment, I think it is important to have a mechanism to facilitate timely feedbacks and communications within the team. )
+
+
+
+How would you describe the pace at which you work?  
+
+It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team; in the fast-paced project (e.g. in the automation research team) I try to get things started ASAP. On the other hand, in the slow-paced environment, I tend to spend more time planning a task, brainstorming any way to improve the efficiency in the long run. 
+
+But the nature of a task at hand has overriding priority. I have not problem to work over the weekends and then take the 6am flight to Vancouver to meet our client, as I did before.
+
+Do you take work home with you?  
+
+It depends on firstly the work environment, and secondly the task at hand. I tend to conform to the pace of the team. But the nature of a task at hand has overriding priority. I was happy to work over the weekends and then take the 6am flight to Vancouver to meet our client.
+
+What is your greatest weakness?  
+
+Public Speaking. My body does not move very naturally when I give a speech in front of people. I want to improve it. Therefore I have been a member of the ToastMaster Club, where a group of people meet together, give speech or give feedbacks. For example, my next speech will be about What is Actually Happening in HongKong, and this time I want to address the feedback about my body language. I believe I will be a good speaker one day. 
+
+
+What do you find are the most difficult decisions to make?  
+
+Between work and family. I have not stayed with my family during the transitional spring festival for 5 years. This year I had the chance the take the paid vacation during the Chinese New Year, but we arranged a few events at the time and I believed the company needed my presence. I was difficult decision to make. Fortunately, my parents are very healthy. So once again, I prioritize my responsibility in the company. 
+
+Have you gotten angry at work? What happened?  
+
+Not that I remember. If you are surprised, I would say partially because I tend to think of the positive side of an argument and seek agreement by communication, and people I worked with would response in kind. 
+
+
+
+How do you handle stress and pressure?  
+
+
+By communication. A lot of times stress and pressure will go when you have information and feedbacks. For example when I am assigned a difficult task that seemingly worries me.I may write to the manager to specify the expectations and maybe ask for additional resources. Along the way I can divide a big task into a few phases, update my manager with each phase and ask for feedbacks. That way, I know what I am doing and I am on the same page with my manager. And the stress and pressure are reduced. 
+
+
+If the people who know you were asked why you should be hired, what would they say? 
+
+Simple version. “If I were you, I would hire him. Because he qualifies for the position he applies, and I don’t know other candidates. “ 
+
+(I’m not bragging but I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. )
+
+
+How do you measure success?  
+
+Hard question. In the narrow point of view, I think success can be measure by money. For one thing, successful people make decent amount of money by doing what is legitimate and enjoyable. For another, successful people spend the money in a way that please them self and benefit the society. It is just one perspective and for sure there are successful people beyond this measure. 
+
+What super power do you want to have? 
+
+
+I would love to see through people……’s mind lol still creep. Actually I want to have photographic memory and super-fast reading ability. I know Bill Gates can read 150 pages per hour and 15 books during business travel. That’s astonishing… If I had this ability, I would be able to catch up with the progress of any cutting edge technology in no time, and develop an insight into what is happening in the fast-changing world. I would able to transform the world. 
+
+
+If you were an animal, which would you want to be?
+
+Wolf. Because they are strong as individual, and they can take down stronger target by working as a group. And they react quickly when opportunities present. 
+
+
+Describe your best boss and your worst boss.  
+
+Describe your career goals.  
+
+Describe your work style.  
+
+
+
+
+
+
+
+How would you describe yourself?  
+
+I am a human, by saying that I mean there are things I hat myself - For example I relied too much on my parents’ decisions knowing that I was interested in finance, I agreed to study engineering because they loved engineers…there are also things I like about myself - I am ambitious, smart, optimistic and like-able; and by sitting here, I am now pursuing what I really interest in. 
+
+I am ambitious, intelligent and consistent. And I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. 
+
+
+
+
 
 
 
@@ -176,9 +210,6 @@ What did you like or dislike about your previous job?
 
 What do you expect from a supervisor?  
 
-What do you find are the most difficult decisions to make?  
-
-Between work and family. I have not stayed with my family during the transitional spring festival for 5 years. This year I had the chance the take the paid vacation during the Chinese New Year, but we arranged a few events at the time and I believed the company needed my presence. I was difficult decision to make. Fortunately, my parents are very healthy. So once again, I prioritize my responsibility in the company. 
 
 
 
@@ -192,10 +223,6 @@ What is your greatest strength?
 
 
 
-What is your greatest weakness?  
-
-Public Speaking. My body does not move very naturally when I give a speech in front of people. I want to improve it. Therefore I have been a member of the ToastMaster Club, where a group of people meet together, give speech or give feedbacks. For example, my next speech will be about What is Actually Happening in HongKong, and this time I want to address the feedback about my body language. I believe I will be a good speaker one day. 
-
 
 
 What major challenges have you handled?  
@@ -206,26 +233,11 @@ What problems have you encountered at work?
 
 What was your biggest accomplishment in this position?  
 
-
-Tell me about a time when you had to meet a tight deadline.
-
-
-
-Sure. One example took place when I working with the dog food company to export their products. We were on the tight schedule because of the availability of the company and the local distributor. On Friday they got back to us with their comments on the last version of MOU. We had been scheduled to meet them on the next Monday with representative from China. Therefore, I took the work home, kept my phone powered on for 48 hours. I took advantage of time by working with my manager in the day, and communicated with local personnels during the night and their fight connections. As a result, we finalized the MOU by Sunday night and the meeting on the next Monday went on well. 
-
-
-
 What was most rewarding about your job?  
 
 Salary. Yeah jokingly but It is good for new graduate. Well it is a bonus to work with entrepreneurs and explore my passion. I feel the sense of achievement when I use my intelligence to move a project forward. 
 
-What relevant experience do you have?  
 
-
-
-Can you provide an example to demonstrate your leadership? 
-
-Sure. I would like to take the example when I participated in the Data Competition hosted by ATB Bank. Our team was comprised of 5 people from diversified background, including business analysts and Software QAs. As soon as the team was assigned, I initiated the online pool to coordinate our first meeting. In the meeting, we had a hard time to determine the theme of our project. I soon realized that I was the one who had the most knowledge of the dataset provided. Therefore, I stepped forward and explained the feasibility of proposals in a non-technical way so that the team were on the same page. By the end of the meeting, I called for a vote. As a results, we decided to predict future travelers for tailored promotion in the first meeting, buying more time for the project.
 
 
 What will you do if you don't get a job offer?  
@@ -246,15 +258,7 @@ Why should we hire you?
 What do you know about this company?  
 
 
-What super power do you want to have? 
 
-
-I would love to see through people……’s mind lol still creep. Actually I want to have photographic memory and super-fast reading ability. I know Bill Gates can read 150 pages per hour and 15 books during business travel. That’s astonishing… If I had this ability, I would be able to catch up with the progress of any cutting edge technology in no time, and develop an insight into what is happening in the fast-changing world. I would able to transform the world. 
-
-
-If you were a animal, which would you want to be?
-
-Wolf. Because they are strong as individual, and they can take down stronger target by working as a group. And they react quickly when opportunities present. 
 
 What is your outlook of the industry?
 
@@ -275,21 +279,9 @@ Potter professionally guesses the new normal will include the energy sector doin
 Peters & Co. supports and participates in Calgary’s community-based charitable activities, not only through charitable donations but also with volunteer time to worthwhile causes such as the Alberta Children’s Hospital Foundation. The company has also been a vital partner of the United Way of Calgary and area for more than 28 years.
 
 
-What project have you been working on most recently? 
 
-We are in touch with the WuLiangYe, one of the top 10 Asian Liquor , trying to win the distribution right in BC. I’ve been working on the marketing plan and the demand forecast based on different pricing strategies. At the same time, I am working with Facet Music, a Non-profit Music Association, discussing about a Networking Event in Calgary upcoming this month. I will sponsor them and they will provide the guests cocktails made from Asian liquor. Tomorrow I will meet with the organizer to discuss the details. You are very welcome to attend ( once I have everything ironed out / set up) 
 
-Does your current role require any financial analysis? 
-
-Not much. Unfortunately I don’t have access to the company’s financial statements. I do perform adhoc demand forecasting where I build regression models in Excel with the seasonal sales and demographic data. And I use pivot tables to perform cross-sectional analysis to gain insight into our business. 
-
-What database do you use in your current role? 
-
-We use the database provided by the our partners. For example, our inventory, orders and sales data in Alberta is stored in the Liquor Connect Database. And when I need to run adhoc analysis, I will download the data, process them in Python is necessary, and load them into Excel for most of time. 
-
-What have you learned from CFA and what part of it interest you the most? 
-
-Well, you know the CFA program cover a wide range of financial knowledge including economics, risk management, financial reporting, equity valuation and portfolio management. I tried to treat them equally when I studies for exams. That being said, what I’m most interested in is equity valuation. Think about it, unlike trading or portfolio management which requires capital, I can use my own knowledge of the industry and the analysis of their financial statements, to have an educated opinion on any company I’m interest in - it’s the product of my intelligence. That will be very very cool! 
+What models have you learned from CFA ?
 
 Regression Models 
 DuPont Model, Linear regression, multivariate regression, autoregressive, 
