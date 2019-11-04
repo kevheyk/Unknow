@@ -1,10 +1,10 @@
 
-Balanced Career Interview Questions - 
-I may have to spend some time on recalling / on this question. May I come back to it later? 
+Balanced Career Interview Questions -   
+I may have to spend some time on recalling / on this question. May I come back to it later?     
 
 
 
-Tell me about yourself.  
+Tell me about yourself. 
 
 
 I graduated in petroleum engineering from the University of Alberta. Through the co-op internship program, I have worked on a wide range of research projects, and have developed solid skills in financial modeling, data analysis, and using industrial software such as AccuMap. In my current role as procurement analyst, I perform adhoc market research, pricing analysis and demand forecasting. Within one year, my research has allowed the company to gain market share in Alberta, expand market access to Saskatchewan, and Manitoba. Driven by my interest in financial analysis, I have been working towards the CFA program, and passed Level I and Level II, developing comprehensive knowledge in the capital market. Outside of work, I enjoy taking online courses to sharpen my programming skills, while seeking challenges and projects to apply the skills in real life. Currently, I want to further my career in the Alberta capital market so that I can leverage my background and skills.
@@ -12,7 +12,7 @@ I graduated in petroleum engineering from the University of Alberta. Through the
 
 
 
-Why don’t you walk me through your resume? 
+Why don’t you walk me through your resume?  
 
 (How much time would you like me to spend on this question? What part of my background would you like me to go in details?)
 
@@ -27,12 +27,12 @@ After graduation, I have been working for Sinocan Supply Inc, a liquor distribut
 
 
 
-Are you the best person for this job? Why? 
+Are you the best person for this job? Why?  
 
 I have the background in oil and gas research and comprehensive financial knowledge. I have  experience of analyzing the recovery of oil pools such as B.C Montney and Banff Glenevis. I can read data and well logs from AccuMap, ran analytical models in Excel and proposed solutions to increase the recovery. In the meantime, I have passed CFA Level II with top 10% score, developing strong understanding of fundamental analysis including the ability to analyze financial statement under US GAPP and IFRS. Moreover, I have worked with multiple teams and I know I thrive in a fast-paced environment. Therefore I believe I can contribute meaningfully to your Research Department. 
 
 
-Tell me why you want to work here.  
+Tell me why you want to work here.      
 
 
 First of all, I am excited to perform the responsibilities of research associate - to cover the companies and provide insight into the industry. I find value to do what I am passionate about. 
@@ -43,14 +43,14 @@ Moreover, I appreciate what Peters is doing. I know that you commit to give back
 
 
 
-What are you looking for in your next position?  
+What are you looking for in your next position?     
 
 Achievement - with my research, creating value by serving the small companies to get their foot in the industry, especially in this low investment environment. 
 
 Growth - with the company’s resource. I want to continue workin towards the CFA designation while harvesting real-world experience. I want to sharpen my financial analysis skills, and learn to develop advanced financial models for the oil and gas industry and beyond. 
 
 
-How long do you expect to work for this company?  
+How long do you expect to work for this company?    
 
 I will give it a good 5 years. . I believe your company can provide me with the challenges and career growth I want for at least 5 years. And you will value and reward my contribution fairly. After 5 years, I might rethink my position and goals of life and career.
 
@@ -73,6 +73,16 @@ Not much. Unfortunately I don’t have access to the company’s financial state
 What database do you use in your current role? 
 
 We use the database provided by the our partners. For example, our inventory, orders and sales data in Alberta is stored in the Liquor Connect Database. And when I need to run adhoc analysis, I will download the data, process them in Python is necessary, and load them into Excel for most of time. 
+
+What was most rewarding about your job?  
+
+Salary. Yeah jokingly but It is good for new graduate. Well it is a bonus to work with entrepreneurs and explore my passion. I feel the sense of achievement when I use my intelligence to move a project forward. 
+
+
+Why are you leaving your job?  
+
+
+Because I want to get into the capital market. That’s what I’m passionate about and I believe there is a lot of room for growth as well.
 
 What have you learned from CFA and what part of it interest you the most? 
 
@@ -98,6 +108,14 @@ Sure. One example took place during the automation research where I programmed a
 Can you provide an example to demonstrate your leadership? 
 
 Sure. In my definition, a leader is one who steps forward when needed, brings the team together, facilitates communications, and takes the team forward. I would like to take the example when I participated in the Data Competition hosted by ATB Bank. Our team was comprised of 5 people from diversified background, including business analysts and Software QAs. As soon as the team was assigned, I initiated the online pool to coordinate our first meeting. In the meeting, we had a hard time to determine the theme of our project. I soon realized that I was the one who had the most knowledge of the dataset provided. Therefore, I stepped forward and explained the feasibility of proposals in a non-technical way so that the team were on the same page. By the end of the meeting, I called for a vote. As a results, we decided to predict future travelers for tailored promotion in the first meeting, buying more time for the project.
+
+
+Have you made mistake in your career? 
+
+Yes, I remember I made a mistake when I first started with the pet food export project. In the early phase of the project, my manager asked me to send cold emails to potential manufactures. However, to speed up the process, I called Hagen Group in Montreal, one of the companies I liked the most. When I spoke to the foreign market manager, it went quite well until she started asking me technical questions…that I did not have answers to…But still, I tried to answer the questions..and the conversation went sour…
+
+I discussed this failure with my manger. He told me he did not have the answers to those question, that was why he expected me to start with email conversations so that we could have time to think, learn and respond properly. From this incident, I learned that it is not always good to be bold. It takes strategy and discipline to reach a deal. 
+
 
 
 How would you handle it if your boss was wrong?  
@@ -153,6 +171,11 @@ If the people who know you were asked why you should be hired, what would they s
 Simple version. “If I were you, I would hire him. Because he qualifies for the position he applies, and I don’t know other candidates. “ 
 
 (I’m not bragging but I am proud that people I’ve worked with have become my friends and we are still connected. In their eyes I am easy work with, willing to learn and more than happy to share. If my friends ever want to learn something new, they would want me to study with them; if they ever want help with CFA exams, I am the first person to contact. )
+
+
+What will you do if you don't get a job offer?  
+
+Thank you for asking. I would keep looking. If I failed this interview, please do me a favor by giving me any piece of feedback or career advice. And I look forward to staying connected. 
 
 
 How do you measure success?  
@@ -233,21 +256,6 @@ What problems have you encountered at work?
 
 What was your biggest accomplishment in this position?  
 
-What was most rewarding about your job?  
-
-Salary. Yeah jokingly but It is good for new graduate. Well it is a bonus to work with entrepreneurs and explore my passion. I feel the sense of achievement when I use my intelligence to move a project forward. 
-
-
-
-
-What will you do if you don't get a job offer?  
-
-Thank you for asking. I would keep looking. If I failed this interview, please do me a favor by giving me any piece of feedback or career advice. And I look forward to staying connected. 
-
-Why are you leaving your job?  
-
-
-Because I want to get into the capital market. That’s what I’m passionate about and I believe there is a lot of room for growth as well.
 
 
 Why do you want this job?  
